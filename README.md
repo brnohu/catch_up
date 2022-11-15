@@ -1,3 +1,3 @@
-# CompFin
+# Catch Up
 
 ReadMe
