@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="kFd1d.h" />
     <ClInclude Include="kMatrix.h" />
     <ClInclude Include="kMatrixAlgebra.h" />
     <ClInclude Include="kVector.h" />

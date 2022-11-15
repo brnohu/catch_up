@@ -27,5 +27,8 @@
     <ClInclude Include="xlUtils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="kFd1d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
