@@ -1,4 +1,4 @@
-# Catch Up, Jesper Andreasen, Wilmott magazine
+# Catch Up by Jesper Andreasen, Wilmott magazine
 
 We consider finite difference
 implementation of local volatility models
